@@ -1,52 +1,242 @@
 [
     {
         "productId": 1,
-        "productName": "Leaf Rake",
-        "productCode": "GDN-0011",
-        "releaseDate": "March 19, 2016",
-        "description": "Leaf rake with 48-inch wooden handle.",
-        "price": 19.95,
-        "starRating": 3.2,
-        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+        "pType":"T",
+        "productName": "Green Kaftan with beads ",
+        "productCode": "GD-0011",
+        "description": "Morrocan Kaftan with white beads and a belt. Suitable for all your traditional occasions.",
+        "price": 60,
+        "starRating": 4,
+        "imageUrl": "./assets/images/IMG_4343.jpg"
     },
     {
         "productId": 2,
-        "productName": "Garden Cart",
-        "productCode": "GDN-0023",
-        "releaseDate": "March 18, 2016",
-        "description": "15 gallon capacity rolling garden cart",
-        "price": 32.99,
-        "starRating": 4.2,
-        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/58471/garden_cart.png"
+        "pType":"T",
+        "productName": "Yellow sunflower ",
+        "productCode": "GD-0012",
+        "description": "Are you looking for a beautiful yet edgy traditional dress for your upcoming event? This dress is made of shiny beads and flowers that will suit all your traditional events.",
+        "price": 30,
+        "starRating": 3.2,
+        "imageUrl": "./assets/images/IMG_4345.jpg"
+    },
+    {
+        "productId": 3,
+        "pType":"T",
+        "productName": "Pink Kaftan with silver embroidery ",
+        "productCode": "GD-0013",
+        "description": "This pink Morrocan kaftan is made of high quality tissue and it is hand embroidered with silver threads that will be suitable for traditional events.",
+        "price": 70,
+        "starRating": 4,
+        "imageUrl": "./assets/images/IMG_4349.jpg"
+    },
+    {
+        "productId": 4,
+        "pType":"T",
+        "productName": "Brownish red Kaftan ",
+        "productCode": "GD-0014",
+        "description": "Simple yet elegant brownish red Morrocan Kaftan with silver details and a belt. Suitable for all your traditional occasions.",
+        "price": 80,
+        "starRating": 4,
+        "imageUrl": "./assets/images/IMG_4355.jpg"
     },
     {
         "productId": 5,
-        "productName": "Hammer",
-        "productCode": "TBX-0048",
-        "releaseDate": "May 21, 2016",
-        "description": "Curved claw steel hammer",
-        "price": 8.9,
-        "starRating": 4.8,
-        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/73/rejon_Hammer.png"
+        "pType":"O",
+        "productName": "Dark blue dress with beads ",
+        "productCode": "GD-1000",
+        "description": "Dark blue dress that is heavily designed with beads that will be suitable for your upcoming occasions.",
+        "price": 30,
+        "starRating": 3,
+        "imageUrl": "./assets/images/IMG_4358.jpg"
+    },
+    {
+        "productId": 6,
+        "pType":"T",
+        "productName": " Light green dress ",
+        "productCode": "GD-0015",
+        "description": "Light green dress with black net detail. Made of thick material.",
+        "price": 30,
+        "starRating": 3,
+        "imageUrl": "./assets/images/IMG_4361.jpg"
+    },
+    {
+        "productId": 7,
+        "pType":"O",
+        "productName": " Blue half sleeve dress ",
+        "productCode": "GD-2000",
+        "description": "This dress is a half sleeve dress with a light material which makes it suitable for summer occasions.",
+        "price": 20,
+        "starRating": 3.5,
+        "imageUrl": "./assets/images/IMG_4363.jpg"
     },
     {
         "productId": 8,
-        "productName": "Saw",
-        "productCode": "TBX-0022",
-        "releaseDate": "May 15, 2016",
-        "description": "15-inch steel blade hand saw",
-        "price": 11.55,
-        "starRating": 3.7,
-        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/27070/egore911_saw.png"
+        "pType":"O",
+        "productName": "Navy blue shiny dress",
+        "productCode": "GD-3000",
+        "description": "This dress is made of shiny material and it is a long sleeve dress that is suitable for all occasions.",
+        "price": 50,
+        "starRating": 4,
+        "imageUrl": "./assets/images/IMG_4365.jpg"
+    },
+    {
+        "productId": 9,
+        "pType":"T",
+        "productName": " Pink dress with gold detail ",
+        "productCode": "GD-0016",
+        "description": "This pink dress is made of light cloth and gold thread detail. It is suitable for hot summer traditional events and a belt can be added to it ",
+        "price": 29,
+        "starRating": 2.5,
+        "imageUrl": "./assets/images/IMG_4979.jpg"
     },
     {
         "productId": 10,
-        "productName": "Video Game Controller",
-        "productCode": "GMG-0042",
-        "releaseDate": "October 15, 2015",
-        "description": "Standard two-button video game controller",
-        "price": 35.95,
-        "starRating": 4.6,
-        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
+        "pType":"O",
+        "productName": " Short purple dress ",
+        "productCode": "GD-4000",
+        "description": "This short dress has gold details and it is made of light material which makes it suitable for all occasions.",
+        "price": 44,
+        "starRating": 3.5,
+        "imageUrl": "./assets/images/IMG_4982.jpg"
+    },
+    {
+        "productId": 11,
+        "pType":"O",
+        "productName": " Black and white long sleeve dress ",
+        "productCode": "GD-5000",
+        "description": "This black and white dress is made of high quality material. The tissue has patterns and it includes a golden belt.",
+        "price": 67,
+        "starRating": 4,
+        "imageUrl": "./assets/images/IMG_4985.jpg"
+    },
+    {
+        "productId": 12,
+        "pType":"C",
+        "productName": " Black Abaya with pink detail ",
+        "productCode": "GD-0100",
+        "description": "This black Abaya is made of light material with leaf prints which makes it comfortable to wear everyday. The pink embroidery adds a toutche of elegance to this casual Abaya.",
+        "price": 10,
+        "starRating": 3.5,
+        "imageUrl": "./assets/images/IMG_4988.jpg"
+    },
+    {
+        "productId": 13,
+        "pType":"T",
+        "productName": " Coral dress with black detail",
+        "productCode": "GD-0017",
+        "description": "This is a unique color that stands out when it is combined with black. This traditional dress is made of thick material and it is suitable for all traditional events.",
+        "price": 35,
+        "starRating": 3,
+        "imageUrl": "./assets/images/IMG_4991.jpg"
+    },
+    {
+        "productId": 14,
+        "pType":"O",
+        "productName": " Black dress with pink detail ",
+        "productCode": "GD-6000",
+        "description": "This dress is made of high quality material and it has long sleeves. The pink details make it suitable for all events and ocasions and it comes with a belt that adds a touch of elegance to the dress.",
+        "price": 75,
+        "starRating": 4,
+        "imageUrl": "./assets/images/IMG_4993.jpg"
+    },
+    {
+        "productId": 15,
+        "pType":"C",
+        "productName": " Brown dress with yellow detail",
+        "productCode": "GD-0200",
+        "description": "This brown dress is made of light material which makes it suitable for casual events. the yellow belt can be worn to match the yellow detail on the dress.",
+        "price": 32,
+        "starRating": 3,
+        "imageUrl": "./assets/images/IMG_4996.jpg"
+    },
+    {
+        "productId": 16,
+        "pType":"C",
+        "productName": " Short green dress ",
+        "productCode": "GD-0300",
+        "description": "This is a short green dress with short sleeves and gold details with a matching belt that makes it suitable for all casual ocasions.",
+        "price": 25,
+        "starRating": 4,
+        "imageUrl": "./assets/images/IMG_4998.jpg"
+    },
+    {
+        "productId": 17,
+        "pType":"C",
+        "productName": " Blue Abaya with gold details",
+        "productCode": "GD-0400",
+        "description": "This is a long sleeve Abaya with gold details. It is comfortable and suitable for casual events.",
+        "price": 23,
+        "starRating": 2,
+        "imageUrl": "./assets/images/IMG_5001.jpg"
+    },
+    {
+        "productId": 18,
+        "pType":"C",
+        "productName": " Short green dress ",
+        "productCode": "GD-0500",
+        "description": "This is a short green dress with short sleeves and gold details with a matching belt that makes it suitable for all casual ocasions.",
+        "price": 32,
+        "starRating": 3.5,
+        "imageUrl": "./assets/images/IMG_4998.jpg"
+    },
+    {
+        "productId": 19,
+        "pType":"T",
+        "productName": " Red dress with gold details ",
+        "productCode": "GD-0018",
+        "description": "Short sleeves dress with gold details that make it suitable for traditional events.",
+        "price": 15,
+        "starRating": 3,
+        "imageUrl": "./assets/images/IMG_5004.jpg"
+    },
+    {
+        "productId": 20,
+        "pType":"O",
+        "productName": " Green and red dress ",
+        "productCode": "GD-7000",
+        "description": "Green and red dress that is made of shiny and thick material and a golden belt.",
+        "price": 22,
+        "starRating": 2,
+        "imageUrl": "./assets/images/IMG_5007.jpg"
+    },
+    {
+        "productId": 21,
+        "pType":"C",
+        "productName": " black and silver dress ",
+        "productCode": "GD-0600",
+        "description": "This is a long sleeve dress that is made of light material. suitable for casual events.",
+        "price": 23.5,
+        "starRating": 3,
+        "imageUrl": "./assets/images/IMG_5010.jpg"
+    },
+    {
+        "productId": 22,
+        "pType":"O",
+        "productName": " Brown dress ",
+        "productCode": "GD-8000",
+        "description": "Brown dress with a golden belt and golden details on the shoulders.",
+        "price": 35.2,
+        "starRating": 4,
+        "imageUrl": "./assets/images/IMG_5015.jpg"
+    },
+    {
+        "productId": 23,
+        "pType":"C",
+        "productName": " Black and white dress ",
+        "productCode": "GD-0700",
+        "description": "This is a long sleeves dres with a V neck. It is made of a light black and white material with patterns.",
+        "price": 14,
+        "starRating": 2.5,
+        "imageUrl": "./assets/images/IMG_5018.jpg"
+    },
+    {
+        "productId": 24,
+        "pType":"O",
+        "productName": " Navy blue dress ",
+        "productCode": "GD-9000",
+        "description": "Long dress with long sleeves. It is made of thick material and white details with some shine.",
+        "price": 30.5,
+        "starRating": 3,
+        "imageUrl": "./assets/images/IMG_5021.jpg"
     }
 ]

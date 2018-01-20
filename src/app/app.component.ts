@@ -1,9 +1,15 @@
+// libraries
 import { Component } from '@angular/core';
+import {ProductService} from "./products/product.service";
+// decorator
+@Component ({
 
-@Component({
-  selector: 'pm-root',
-  templateUrl: './app.component.html'
+selector : 'pm-root',
+templateUrl: './app.component.html', 
+styleUrls:['./app.component.css'],
+providers:[ProductService]
 })
-export class AppComponent {
-  pageTitle: string = 'Acme Product Management';
+// class
+export class AppComponent{ 
+pageTitle: string = 'this is my first Dynamic website';
 }

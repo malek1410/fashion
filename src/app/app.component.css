@@ -1,3 +1,53 @@
-.navbar{
-    position: fixed;
+container-fluid {
+    background-color: rgb(212, 141, 33);
 }
+.header{
+    background-color:#9E6078;
+    padding-bottom: 10px;
+}
+
+#fmtIMg{
+    width: 100px;
+
+}
+
+.header h1{
+    margin:0;
+    color:black;
+    text-align: center;
+    padding-top:10px;
+    font-family: 'Alex Brush';font-size: 60px;
+  }
+
+  
+  li{
+    display: inline;
+    padding-left: 200px;
+    font-size: 20px;
+  
+  }
+  
+   ul{
+     list-style-type: none;
+       margin: 0;
+       padding: 0;
+       overflow: hidden;
+       background-color: #9E6078;
+       padding-top: 20px;
+  
+  }
+  li a {
+    color: white;
+  
+  }
+  li a:hover {
+    background-color: rgb(61, 14, 32);
+    border:1px;
+    border-radius:5px;
+    padding: 5px 5px 5px 5px;
+  
+  }
+
+  .container {
+      /* margin-top: 10px; */
+  }
